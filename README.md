@@ -18,7 +18,7 @@ python linear_regression.py
 ```
 
 ## Example result
-For the sample data, the predicted marks for 6.5 study hours are about **72.8**.
+For the sample data, the predicted marks for 6.5 study hours are about **74.76**.
 
 ## Files
 - `data.csv` — sample study hours and marks
